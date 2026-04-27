@@ -1,1 +1,0 @@
-<h1>Welcome to Bottle Framework with Soham Dalvi</h1>
